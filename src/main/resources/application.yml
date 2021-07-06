@@ -1,0 +1,8 @@
+spring:
+#  elasticsearch:
+#    rest:
+#      uris: http://localhost:9201,http://localhost:9202,http://localhost:9203
+  application:
+    name: elasticsearch-learn
+server:
+    port: 8080
